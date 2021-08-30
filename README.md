@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **123-code/123-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=123-CODE&show_icons=true&theme=radical)
