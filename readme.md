@@ -1,4 +1,4 @@
-Software Engineering Student getting into Deep Learning and Web3.
+React & Solidity 
 
 <!--
 **123-code/123-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
