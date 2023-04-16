@@ -1,4 +1,4 @@
-- React,Solidity,Java,Python
+- Learning React,Solidity & Pytorch
 
 
 <!--
